@@ -5,7 +5,7 @@ First-year Computer Science student passionate about Linux, DevOps, and Automati
 [![titanknis's GitHub stats](https://github-readme-stats.vercel.app/api?username=titanknis&show_icons=true&theme=tokyonight)](https://github.com/titanknis)
 
 ## Tech Stack
-- Linux/Cli
+- Linux/CLI
 - Git & Version Control
 - Python
 - Bash scripting
