@@ -7,18 +7,6 @@
 </picture>
 
 
-| <a href="https://github.com/titanknis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=titanknis&show_icons=true&theme=tokyonight" alt="titanknis's GitHub stats" /></a> | <a href="https://github.com/titanknis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titanknis&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+ <a href="https://github.com/titanknis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=titanknis&show_icons=true&theme=tokyonight" alt="titanknis's GitHub stats" /></a> 
+<a href="https://github.com/titanknis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titanknis&layout=compact&theme=tokyonight" /></a> 
 
-#### Top Repositories
-
-
-<a href="https://github.com/titanknis/nixos-installation-guide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=titanknis&repo=nixos-installation-guide&theme=tokyonight" />
-</a>
-<a href="https://github.com/titanknis/ISIMM-L1-Info-Cours">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=titanknis&repo=ISIMM-L1-Info-Cours&theme=tokyonight" />
-</a>
-
-<br />
-<br />
