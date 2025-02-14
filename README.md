@@ -5,3 +5,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+| <a href="https://github.com/titanknis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=titanknis&show_icons=true&theme=tokyonight" alt="titanknis's GitHub stats" /></a> | <a href="https://github.com/titanknis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titanknis&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/titanknis/nixos-installation-guide">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=titanknis&repo=nixos-installation-guide&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ISIMM-L1-Info-Cours&theme=tokyonight" />
+</a>
+
+<br />
+<br />
