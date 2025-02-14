@@ -11,6 +11,7 @@ First-year Computer Science student passionate about Linux, DevOps, and Automati
 - Bash scripting
   
 ## Current Focus
+- Problem Solving
 - Docker & Containers
 - Learning CI/CD pipelines and Infrastructure as Code
 - Cloud technologies
