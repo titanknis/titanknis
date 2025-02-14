@@ -9,12 +9,7 @@ First-year Computer Science student passionate about Linux, DevOps, and Automati
 - Git & Version Control
 - Python
 - Bash scripting
-  
-## Current Focus
-- Problem Solving & Competitive Programming
-- Docker & Containers
-- Learning CI/CD pipelines and Infrastructure as Code
-- Cloud technologies
+- C Programming
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
