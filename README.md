@@ -8,8 +8,10 @@ First-year Computer Science student passionate about Linux, DevOps, and Automati
 - Python
 - Bash scripting
 - C Programming
-  
+- 
 📈 **My GitHub Stats:**
+
+![](https://komarev.com/ghpvc/?username=titanknis&color=blue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titanknis&theme=codeSTACKr) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=titanknis&theme=codeSTACKr) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=titanknis&theme=codeSTACKr)
